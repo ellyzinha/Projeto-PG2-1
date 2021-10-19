@@ -14,8 +14,11 @@ Sistema de adoção e cuidados de uma ONG com animais abandonados, nesse sistema
 ## Requisitos do projeto
 
 * **REQ1** - O sistema deverá permitir o cadastro de animais para adoção;
-* **REQ2** - O sistema possuirá 3 tipos de cadastro de pessoas: pessoa anônima, voluntário, interessados para adoção;
+* **REQ2** - O sistema possuirá 3 tipos de cadastro de pessoas: pessoa básica, voluntário, interessados para adoção;
 * **REQ3** - O sistema deverá permitir a adoção dos animais somente por pessoas que estejam cadastradas, caso mais de uma pessoa se interesse pelo mesmo animal, a mesma irá para uma lista de espera para a adoção;
 * **REQ4** - O sistema deverá ter a opção para caso o usuário queira realizar uma doação para a ONG;
+* **REQ5** - O sistema deverá disponibilizar relatórios que possuam as informações dos animais adotados em determinado período;
+* **REQ6** - O sistema deverá disponibilizar relatórios que possuam os registros de serviços prestados por voluntários;
+* **REQ7** - O sistema deverá disponiblizar relatórios que possuam os registros de serviços prestados por ajudantes;
 
 
